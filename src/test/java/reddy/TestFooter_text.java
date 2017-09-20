@@ -78,7 +78,7 @@ public class TestFooter_text {
 			list.add(link_name);
 
 		}
-Assert.assertEquals(list, exp_list);
+		Assert.assertEquals(list, exp_list);
 		System.out.println(list.toString());
 	}
 }
